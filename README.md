@@ -40,16 +40,6 @@ npm run build
 
 ---
 
-## Troubleshooting
-If the block doesn't appear:
-1. Check browser console for errors (**F12**)
-2. Verify files exist in `/build/`:
-   - `index.js`
-   - `index.css`
-   - `style-index.css`
-
----
-
 ## Development
 ```bash
 npm start     # Starts development mode with hot reloading
