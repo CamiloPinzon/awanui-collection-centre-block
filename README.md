@@ -39,9 +39,3 @@ npm run build
 - **PHP** 7.4+
 
 ---
-
-## Development
-```bash
-npm start     # Starts development mode with hot reloading
-npm run build # Builds production assets
-```
